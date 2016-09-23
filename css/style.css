@@ -1,0 +1,152 @@
+/*font-family: "Noto Sans ', sans-serif;
+font-family: 'Texto carmesí', serif;*/
+
+#contenidos{
+
+width: 1000px;
+height: auto;
+margin: auto;
+position: relative;
+}
+
+body{
+background-image: url(../img/fondo.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+font-family: "Noto Sans ', sans-serif;
+color: grey;
+margin left: 340px;
+font-size: 30px;
+text-align: center;
+padding-top: 20px;
+}
+
+h2{
+font-family: 'Texto carmesí', serif;
+margin left: 5px;
+font-size: 20px;
+text-align: center;
+}
+
+h3{
+font-family: 'Texto carmesí', serif;
+color:gray;
+font-size: 20px;
+text-align: center;
+}
+
+header{
+
+	width: 1000px;
+	height: 120 px;
+	background: Pale turquoise; 
+	background-image: url(../img/unad.png);
+	background-repeat: no-repeat;
+	border-radius: 10px;
+}
+
+nav{
+	width: 1000px;
+	height: 50px;
+	background: orange;
+	border-radius: 10px;
+	margin-top: 20px; 	
+}
+
+ul{
+	margin: auto;
+	padding-top: 4px;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 8px;
+	background: yellow;
+	margin: 3px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px orange inset;
+}
+
+section{
+
+width: 700px;
+	background: lime;
+	height: 600px;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+aside{
+	width: 280px;
+	background: lightpink;
+	height: 600px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius: 10px;
+
+}
+
+footer{
+	width: 1000px;
+	height: 60px;
+	background: aqua;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+p{
+	font-size: 15px;
+	font-weight: bolder;
+	line-height: 24px;
+	padding: 10px;
+	text-align: justify;
+}
+
+/*CLASES*/
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 900px}
+
+.menu:link{color: white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none;}
+.menu:active{color: white; text-decoration: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
